@@ -1,0 +1,11 @@
+e:\documentos\visual studio 2017\Projects\ConexionFTP\ConexionFTP\bin\Debug\netcoreapp2.0\ConexionFTP.deps.json
+e:\documentos\visual studio 2017\Projects\ConexionFTP\ConexionFTP\bin\Debug\netcoreapp2.0\ConexionFTP.runtimeconfig.json
+e:\documentos\visual studio 2017\Projects\ConexionFTP\ConexionFTP\bin\Debug\netcoreapp2.0\ConexionFTP.runtimeconfig.dev.json
+e:\documentos\visual studio 2017\Projects\ConexionFTP\ConexionFTP\bin\Debug\netcoreapp2.0\ConexionFTP.dll
+e:\documentos\visual studio 2017\Projects\ConexionFTP\ConexionFTP\bin\Debug\netcoreapp2.0\ConexionFTP.pdb
+e:\documentos\visual studio 2017\Projects\ConexionFTP\ConexionFTP\obj\Debug\netcoreapp2.0\ConexionFTP.csprojResolveAssemblyReference.cache
+e:\documentos\visual studio 2017\Projects\ConexionFTP\ConexionFTP\obj\Debug\netcoreapp2.0\ConexionFTP.csproj.CoreCompileInputs.cache
+e:\documentos\visual studio 2017\Projects\ConexionFTP\ConexionFTP\obj\Debug\netcoreapp2.0\ConexionFTP.AssemblyInfoInputs.cache
+e:\documentos\visual studio 2017\Projects\ConexionFTP\ConexionFTP\obj\Debug\netcoreapp2.0\ConexionFTP.AssemblyInfo.cs
+e:\documentos\visual studio 2017\Projects\ConexionFTP\ConexionFTP\obj\Debug\netcoreapp2.0\ConexionFTP.dll
+e:\documentos\visual studio 2017\Projects\ConexionFTP\ConexionFTP\obj\Debug\netcoreapp2.0\ConexionFTP.pdb

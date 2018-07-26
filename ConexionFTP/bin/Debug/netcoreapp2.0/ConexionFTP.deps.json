@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "aea1dc7d73bf3ae437aed3947356bc9a5089c230"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConexionFTP/1.0.0": {
+        "dependencies": {
+          "ArxOne.Ftp": "1.12.1"
+        },
+        "runtime": {
+          "ConexionFTP.dll": {}
+        }
+      },
+      "ArxOne.Ftp/1.12.1": {
+        "runtime": {
+          "lib/net40-Client/ArxOne.Ftp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConexionFTP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArxOne.Ftp/1.12.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fc1cobwMIxTvNj+Mxqp4jDgtF6o9KCDu3KIQHWBSO1S75HtRP7+BU42xouTbPikBHaMKesK3EAw98/BQ/OU5Lg==",
+      "path": "arxone.ftp/1.12.1",
+      "hashPath": "arxone.ftp.1.12.1.nupkg.sha512"
+    }
+  }
+}
