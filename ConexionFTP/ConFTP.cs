@@ -47,7 +47,7 @@ namespace ConexionFTP
 
             WebClient client = new WebClient();
             client.Credentials = new NetworkCredential(user, pass);
-            var a = client.Encoding;
+            var encoding = client.Encoding;
             //var listDirectorios = Directory.GetFiles("");
             client.UploadFile(uri+ "Prueba.txt", @"E:\Documentos\ArchivoSFTPrueba\Prueba.txt");
 
